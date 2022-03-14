@@ -1,3 +1,6 @@
+# Ignore api keys file
+Phase1/keys.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
